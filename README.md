@@ -63,6 +63,10 @@ To improve performance, I implemented:
 
 ## 🔎 Patient Management
 
+![Patient Management](Screenshot/patient1.png)
+
+![Patient Management](Screenshot/patient2.png)
+
 The Patient module allows users to:
 
 - Search patients
@@ -72,6 +76,9 @@ The Patient module allows users to:
 - Manage patient records through the web interface
 
 ## 👨‍⚕️ Doctor Management
+
+![Doctor Management](Screenshot/Doctor1.png)
+![Doctor Management](Screenshot/Doctor2.png)
 
 The Doctor module allows users to:
 
@@ -83,6 +90,9 @@ The Doctor module allows users to:
 - Store experience and consultation fee details
 
 ## 📅 Appointment Management
+
+
+![Appointment Management](Screenshot/Appointment.png)
 
 The Appointment module allows users to:
 
