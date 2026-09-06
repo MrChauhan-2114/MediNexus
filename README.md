@@ -4,6 +4,8 @@ MediNexus is a healthcare management and analytics platform built using **Python
 
 The project is designed to provide a centralized web interface for managing healthcare data and performing analysis on structured healthcare records.
 
+![MediNexus Dashboard](Screenshot/Dashboard.png)
+
 ## 📌 Project Overview
 
 MediNexus currently focuses on the management of patients, doctors, departments, and appointments through an interactive web application.
